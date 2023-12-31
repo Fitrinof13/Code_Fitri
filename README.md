@@ -1,2 +1,2 @@
-# Project-SQL
-Berisi project-project sql yang menggunakan aplikasi Postgresql, Mysql, MariaDB
+# Flutter Fundamental
+berisi materi dasar saya dalam belajar flutter
